@@ -15,4 +15,4 @@ A simple Java-based Library Management System that allows users to:
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/LibraryManagementSystem.git
+   git clone https://github.com/Lithishc/LibraryManagementSystem.git
